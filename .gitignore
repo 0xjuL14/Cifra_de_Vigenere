@@ -1,3 +1,6 @@
-config.privada.txt
-*.log
-cmake-build-debug/
+# Pasta do CLion
+.idea/
+
+# Arquivos executáveis e de build
+*.exe
+Cifra_de_Vigenere

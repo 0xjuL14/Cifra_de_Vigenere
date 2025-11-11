@@ -53,16 +53,16 @@ gcc Cifra_de_Vigenere.c -o vigenere
 ---
 
 ## ✨ Exemplo de uso
-Digite a mensagem: ATAQUEAMANHA
-Digite a chave: CHAVE
-Texto criptografado: CUAGMUQXPRVE
+- Digite a mensagem: ATAQUEAMANHA
+- Digite a chave: CHAVE
+- Texto criptografado: CUAGMUQXPRVE
 
 ## 🌱 Objetivo do Projeto
-Fortalecer lógica de programação em C
-Aprender e praticar criptografia clássica
-Versionar e organizar meus estudos no GitHub
-Criar um repositório fofo e útil ao mesmo tempo 💞
+- Fortalecer lógica de programação em C
+- Aprender e praticar criptografia clássica
+- Versionar e organizar meus estudos no GitHub
+- Criar um repositório fofo e útil ao mesmo tempo 💞
 
 🎀 Feito com carinho por:
-@yumekojulia
-🌙 aprendendo, evoluindo e guardando conhecimento com cuidado.
+- @yumekojulia
+- 🌙 aprendendo, evoluindo e guardando conhecimento com cuidado.

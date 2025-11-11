@@ -25,10 +25,13 @@ Simples e elegante 💜
 ---
 
 ## 🗂 Estrutura do Projeto
+```
 📁 Cifra_de_Vigenere/
-├── Cifra_de_Vigenere.c # Código fonte em C
-├── CMakeLists.txt # Configuração para compilação via CLion / CMake
-└── README.md # Este arquivo fofo ✨
+├── Cifra_de_Vigenere.c            # Código fonte em C
+├── CMakeLists.txt                 # Configuração para compilação via CLion / CMake
+└── README.md                      # Este arquivo fofo ✨
+```
+
 
 Arquivos gerados automaticamente como:
 - `.idea/`

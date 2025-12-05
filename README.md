@@ -1,7 +1,7 @@
 # 🔐 Cifra de Vigenère — Implementação em C
 
 Este repositório contém a implementação da **Cifra de Vigenère**, um algoritmo clássico de criptografia por substituição polialfabética.
-Este projeto foi desenvolvido como parte dos meus estudos em **Algoritmos, C e Criptografia** durante a facul de **Análise e Desenvolvimento de Sistemas** ⭐
+Este projeto foi desenvolvido como parte dos meus estudos em **Algoritmos, C e Criptografia** durante a facul de **Análise e Desenvolvimento de Sistemas** 
 
 ---
 

@@ -29,7 +29,7 @@ Simples e elegante :D
 📁 Cifra_de_Vigenere/
 ├── Cifra_de_Vigenere.c            # Código fonte em C
 ├── CMakeLists.txt                 # Configuração para compilação via CLion / CMake
-└── README.md                      # Este arquivo fofo ✨
+└── README.md                      # Este arquivo legal
 ```
 
 
@@ -38,7 +38,7 @@ Arquivos gerados automaticamente como:
 - `cmake-build-debug/`
 - `.exe` compilados
 
-…não estão no repositório graças ao `.gitignore`, porque queremos um ambiente **limpo e profissional** 🧼
+…não estão no repositório graças ao `.gitignore`, porque queremos um ambiente **limpo e profissional** 
 
 ---
 
@@ -62,5 +62,5 @@ gcc Cifra_de_Vigenere.c -o vigenere
 - Versionar e organizar meus estudos no GitHub
 - Criar um repositório fofo e útil ao mesmo tempo 
 
-## Feito com carinho por: @
+## Feito com carinho por: @0xjuL14
 - aprendendo, evoluindo e guardando conhecimento com cuidado.

@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte dos meus estudos em **Algoritmos, C e C
 
 ---
 
-## 🧠 O que é a Cifra de Vigenère?
+## O que é a Cifra de Vigenère?
 
 A Cifra de Vigenère funciona aplicando **deslocamentos diferentes** ao texto original (mensagem) usando uma palavra-chave.  
 Cada letra da chave determina de quanto a letra correspondente da mensagem será deslocada no alfabeto.
@@ -20,11 +20,11 @@ Cada letra da chave determina de quanto a letra correspondente da mensagem será
 
 Resultado: **CUAGMU**
 
-Simples e elegante 💜
+Simples e elegante :D
 
 ---
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 📁 Cifra_de_Vigenere/
 ├── Cifra_de_Vigenere.c            # Código fonte em C
@@ -42,11 +42,7 @@ Arquivos gerados automaticamente como:
 
 ---
 
-## 💻 Como compilar
-
-### No CLion (mais fácil):
-É só abrir o projeto → clicar no botão **Run** ▶️  
-O CLion configura tudo sozinho 🔮
+## Como compilar
 
 ### Pelo terminal:
 ```bash
@@ -55,16 +51,16 @@ gcc Cifra_de_Vigenere.c -o vigenere
 ```
 ---
 
-## ✨ Exemplo de uso
+## Exemplo de uso
 - Digite a mensagem: ATAQUEAMANHA
 - Digite a chave: CHAVE
 - Texto criptografado: CUAGMUQXPRVE
 
-## 🌱 Objetivo do Projeto
+## Objetivo do Projeto
 - Fortalecer lógica de programação em C
 - Aprender e praticar criptografia clássica
 - Versionar e organizar meus estudos no GitHub
-- Criar um repositório fofo e útil ao mesmo tempo 💞
+- Criar um repositório fofo e útil ao mesmo tempo 
 
-## 🎀 Feito com carinho por: @yumekojulia
-- 🌙 aprendendo, evoluindo e guardando conhecimento com cuidado.
+## Feito com carinho por: @
+- aprendendo, evoluindo e guardando conhecimento com cuidado.
